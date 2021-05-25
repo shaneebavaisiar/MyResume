@@ -145,7 +145,8 @@ body{
 
 .container .right_side{
     position: relative;
-    background-color: #fff;
+    /* background-color: #fff; */
+    background-color: rgb(247, 252, 252);
     padding: 40px;
 
 }
